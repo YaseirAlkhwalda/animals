@@ -7,3 +7,4 @@ Hamster
 Parrot
 Iguana
 Lizard
+Monkey
