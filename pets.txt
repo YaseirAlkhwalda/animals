@@ -1,0 +1,11 @@
+Cat
+Dog
+Parakeet
+Fish
+Turtle
+Hamster
+Parrot
+Iguana
+Lizard
+Monkey
+Elephant
